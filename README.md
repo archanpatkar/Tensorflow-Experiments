@@ -1,4 +1,4 @@
-## Tensorflow Proof of Concepts
+## Tensorflow Proof of Concept
 
 
 ### Tensorflow
@@ -8,7 +8,13 @@ It is a symbolic math library, and also used for machine learning applications s
 
 It is used for both research and production at Google.
 
+###Guide
+
+Before you start with the POCs please see the Requirements and Installation
+
 ### [Requirements](https://github.com/archanpatkar/tensorflow/wiki/Requirements)
+
+### [Installation](https://github.com/archanpatkar/tensorflow/wiki/Installation)
 
 
 ### Support
