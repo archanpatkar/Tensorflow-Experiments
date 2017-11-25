@@ -8,15 +8,29 @@ It is a symbolic math library, and also used for machine learning applications s
 
 It is used for both research and production at Google.
 
-### Guide
+### Introduction
 
-Before you start with the POCs please see the Requirements and Installation
+> Tensorflow is a libary in which there are 3 Fundamental Abstractions
+ 
+ 1. Nodes
+ 
+ 2. Operations
+ 
+ 3. Tensors
+
+
+### Start
+
+> Before you start with the POCs please see the Requirements and Installation
 
 ### [Requirements](https://github.com/archanpatkar/tensorflow/wiki/Requirements)
 
 ### [Installation](https://github.com/archanpatkar/tensorflow/wiki/Installation)
 
 
+
+
 ### Support
-archanpatkar@gmail.com/
+
+archanpatkar@gmail.com /
 archan@rajeshpatkar.com
