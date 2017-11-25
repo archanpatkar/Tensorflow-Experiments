@@ -34,7 +34,6 @@ It is used for both research and production at Google.
 
 <script src="https://gist.github.com/archanpatkar/830d7b309f8c22ac52ef21ab7e3dadad.js"></script>
 
-
 ### Support
 
 archanpatkar@gmail.com /
