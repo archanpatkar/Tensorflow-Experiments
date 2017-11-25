@@ -12,13 +12,13 @@ It is used for both research and production at Google.
 
 #### `Tensorflow is a libary in which there are 4 Fundamental Abstractions`
  
- #### 1. Nodes
+ ####  1. Nodes
  
- #### 2. Operations
+ ####  2. Operations
  
- #### 3. Tensors
+ ####  3. Tensors
  
- #### 4. Links / Flows
+ ####  4. Links / Flows
 
 
 ### Start
@@ -29,7 +29,8 @@ It is used for both research and production at Google.
 
 * ### [Installation](https://github.com/archanpatkar/tensorflow/wiki/Installation)
 
-### Stage 1
+
+### Simple Code to Start With 
 
 <script src="https://gist.github.com/archanpatkar/e09277a1ec49db27d0f21a9ab0e282bc.js"></script>
 
