@@ -8,7 +8,7 @@ It is a symbolic math library, and also used for machine learning applications s
 
 It is used for both research and production at Google.
 
-###Guide
+### Guide
 
 Before you start with the POCs please see the Requirements and Installation
 
