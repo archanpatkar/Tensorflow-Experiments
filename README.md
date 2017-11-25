@@ -10,7 +10,7 @@ It is used for both research and production at Google.
 
 ### Introduction
 
-> Tensorflow is a libary in which there are 3 Fundamental Abstractions
+#### `Tensorflow is a libary in which there are 3 Fundamental Abstractions`
  
  1. Nodes
  
