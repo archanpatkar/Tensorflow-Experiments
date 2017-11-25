@@ -9,6 +9,6 @@ It is a symbolic math library, and also used for machine learning applications s
 It is used for both research and production at Google.
 
 
-### Support/Contact
+### Support
 archanpatkar@gmail.com/
 archan@rajeshpatkar.com
