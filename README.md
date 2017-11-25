@@ -23,9 +23,9 @@ It is used for both research and production at Google.
 
 > Before you start with the POCs please see the Requirements and Installation
 
-### [Requirements](https://github.com/archanpatkar/tensorflow/wiki/Requirements)
+* ### [Requirements](https://github.com/archanpatkar/tensorflow/wiki/Requirements)
 
-### [Installation](https://github.com/archanpatkar/tensorflow/wiki/Installation)
+* ### [Installation](https://github.com/archanpatkar/tensorflow/wiki/Installation)
 
 
 
