@@ -12,13 +12,13 @@ It is used for both research and production at Google.
 
 #### `Tensorflow is a libary in which there are 4 Fundamental Abstractions`
  
- ##### 1. Nodes
+ #### 1. Nodes
  
- ##### 2. Operations
+ #### 2. Operations
  
- ##### 3. Tensors
+ #### 3. Tensors
  
- ##### 4. Links / Flows
+ #### 4. Links / Flows
 
 
 ### Start
