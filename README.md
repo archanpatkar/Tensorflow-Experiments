@@ -8,7 +8,7 @@ It is a symbolic math library, and also used for machine learning applications s
 
 It is used for both research and production at Google.
 
-### Requirements [https://github.com/archanpatkar/tensorflow/wiki/Requirements]
+### (Requirements)[https://github.com/archanpatkar/tensorflow/wiki/Requirements]
 
 
 ### Support
