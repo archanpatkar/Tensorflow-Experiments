@@ -32,8 +32,8 @@ It is used for both research and production at Google.
 
 ### Tensorflow Trailer 
 
-
-### `Simple Code`
+***
+### `Code`
 
 
 ``` 
@@ -54,6 +54,7 @@ with tf.Session() as session:
 ```
 4
 ```
+***
 
 ### Support
 
