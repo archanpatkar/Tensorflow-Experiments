@@ -30,7 +30,7 @@ It is used for both research and production at Google.
 * ### [Installation](https://github.com/archanpatkar/tensorflow/wiki/Installation)
 
 
-### `Simple Code to Start With`
+### `Simple Code`
 
 
 ``` 
