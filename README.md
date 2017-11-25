@@ -34,8 +34,6 @@ It is used for both research and production at Google.
 
 ***
 ### `Code`
-
-
 ``` 
 import tensorflow as tf
 
