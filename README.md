@@ -32,6 +32,7 @@ It is used for both research and production at Google.
 
 ### `Simple Code to Start With`
 
+
 ``` 
 import tensorflow as tf
 
@@ -46,8 +47,10 @@ with tf.Session() as session:
     output = session.run(node3);
     print(output);
 ```
-
-<script src="https://gist.github.com/archanpatkar/830d7b309f8c22ac52ef21ab7e3dadad.js"></script>
+### `Outputs`
+```
+4
+```
 
 ### Support
 
