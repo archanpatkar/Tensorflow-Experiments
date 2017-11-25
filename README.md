@@ -29,7 +29,9 @@ It is used for both research and production at Google.
 
 * ### [Installation](https://github.com/archanpatkar/tensorflow/wiki/Installation)
 
+### Stage 1
 
+<script src="https://gist.github.com/archanpatkar/e09277a1ec49db27d0f21a9ab0e282bc.js"></script>
 
 
 ### Support
